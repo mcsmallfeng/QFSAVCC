@@ -19,8 +19,8 @@ printf("%.2lf\n",x);
 printf("y «£∫\n");
 printf("%.2lf\n",y);
 // by mcsmallfeng
-
-//gitee:
+//github£∫ https://github.com/mcsmallfeng/QFSAVCC
+//gitee:https://gitee.com/mcsmallfeng/qfsavcc
   
   
   
